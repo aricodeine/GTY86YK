@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "65552573196",
+    "firebase_url": "https://mynotes-chuckles-project-default-rtdb.firebaseio.com",
+    "project_id": "mynotes-chuckles-project",
+    "storage_bucket": "mynotes-chuckles-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65552573196:android:d0adc1a2d6688a9b7c1f29",
+        "android_client_info": {
+          "package_name": "com.example.hiring_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65552573196-76p08r270ovct55ocgn1shij0rgkp1k9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6888COMJYGzAYtZJEU4YM8dDb-Fm7SaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65552573196-76p08r270ovct55ocgn1shij0rgkp1k9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
